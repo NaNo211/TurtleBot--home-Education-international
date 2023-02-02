@@ -3,13 +3,13 @@
 
 team discription Paper: [here](https://github.com/NaNo211/TurtleBot-home-Education-international/blob/main/Robocup%40home_paper.pdf)
 
-team poster : [here](https://github.com/NaNo211/TurtleBot-home-Education-international/blob/main/team_poster.pdf)
+team poster: [here](https://github.com/NaNo211/TurtleBot-home-Education-international/blob/main/team_poster.pdf)
 
-source code :[here](https://drive.google.com/drive/folders/1UQszmGcwzo0BVAEogxnVuTNeKOo5Rwtz?usp=sharing)
+source code: [here](https://drive.google.com/drive/folders/1UQszmGcwzo0BVAEogxnVuTNeKOo5Rwtz?usp=sharing)
 
 ## Introduction
 thanks our team from our univervisity we reached to Robocup @home education finals Which placed in thailand and we implemented the following tasks that given us:
-  •	Carry my luggage 
+###  •	Carry my luggage: 
     1.	Detect the bag
     2.	Take the selected bag
     3.	Follow the operator outside of the arena 
