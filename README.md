@@ -14,14 +14,14 @@ thanks our team from our univervisity we reached to Robocup @home education fina
     2.	Take the selected bag
     3.	Follow the operator outside of the arena 
     4.	Follow the operator outside the car
-  •	 Find my mates.
+###  •	 Find my mates:
     1.	Detect the guest
     2.	Get information about the guest
     3.	Go to the operator and provide him with guest info
-  •	Receptionist.
+###  •	Receptionist:
     1.	Detect the guest
     2.	Get information about the guest
     3.	Take the guest to an empty seat
-  •	Presentation and demonstration.
+###  •	Presentation and demonstration.
   
   
