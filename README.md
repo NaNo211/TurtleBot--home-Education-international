@@ -1,12 +1,10 @@
 # TurtleBot-home-Education-international
 
-# duckie_town_reinforcement
-
-lane following using reinforcment 
 
 team discription Paper: [here](https://github.com/NaNo211/TurtleBot-home-Education-international/blob/main/Robocup%40home_paper.pdf)
 
 team poster : [here](https://github.com/NaNo211/TurtleBot-home-Education-international/blob/main/team_poster.pdf)
+
 source code :[here](https://drive.google.com/drive/folders/1UQszmGcwzo0BVAEogxnVuTNeKOo5Rwtz?usp=sharing)
 
 ## Introduction
